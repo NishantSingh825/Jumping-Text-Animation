@@ -50,7 +50,7 @@ span.active {
 @media (max-width : 800px) {
  
     span{
-        
-        font-size: 70px;
+
+        font-size: 60px;
     }
 }
