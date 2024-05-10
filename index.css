@@ -15,7 +15,6 @@ body {
 .container {
     cursor: pointer;
     margin: 20px;
-    padding: 20px;
     user-select: none;
 
 }
