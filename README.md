@@ -3,10 +3,10 @@
 The **Jumping Text Animation** project is a fun web animation that makes each letter in a given text jump or bounce independently, creating an engaging and lively text effect. This effect is built using HTML, CSS, and JavaScript, and it’s perfect for adding an eye-catching, playful touch to your web projects.<hr>
 *Author :* **NISHANT SINGH**
 
-### Demo
-![Jumping Text Animation Demo]("Jumping-Text-Animation\demo images\1.png")  
-![Jumping Text Animation Demo]("Jumping-Text-Animation\demo images\2.png")  
-![Jumping Text Animation Demo]("Jumping-Text-Animation\demo images\3.png")  
+### Demo Image's 
+![demo images/1.png](https://github.com/NishantSingh825/Jumping-Text-Animation/blob/main/demo%20images/4.png) 
+![demo images/1.png](https://github.com/NishantSingh825/Jumping-Text-Animation/blob/main/demo%20images/2.png)  
+![demo images/1.png](https://github.com/NishantSingh825/Jumping-Text-Animation/blob/main/demo%20images/1.png)  
 *Example of the Jumping Text Animation in action.*
 
 ## About the Project
