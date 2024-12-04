@@ -32,3 +32,6 @@ Feel free to explore and customize the jumping effect to suit your needs!
 
 # Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
+
+
+# Thankyou 💕
